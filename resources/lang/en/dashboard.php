@@ -8,8 +8,8 @@ return [
 	'total_customers' 	=> 'Total Customers',
 	'total_suppliers' 	=> 'Total Suppliers',
 	'total_items' 		=> 'Total Items',
-	'total_item_kits' 	=> 'Total Item Categories',
-	'total_receivings' 	=> 'Total Receivings',
+	'total_item_kits' 	=> 'Total Products',
+	'total_receivings' 	=> 'Total Receivable',
 	'total_sales' 		=> 'Total Sales',
 
 ];

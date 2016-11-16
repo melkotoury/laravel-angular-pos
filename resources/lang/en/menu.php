@@ -8,7 +8,7 @@ return [
 	'items' 				=> 'Items',
 	'item_kits' 			=> 'Products',
 	'suppliers' 			=> 'Suppliers',
-	'receivings' 			=> 'Receivings',
+	'receivings' 			=> 'Receivables',
 	'sales' 				=> 'Sales',
 	'reports' 				=> 'Reports',
 	'receivings_report' 	=> 'Incoming Report',
