@@ -1,24 +1,24 @@
-<?php
+﻿<?php
 
 return [
 
-	'list_suppliers'	=> 'List Suppliers',
-	'new_supplier'		=> 'New Supplier',
-	'company_name' 		=> 'Company Name',
-	'name' 	=> 'Name',
-	'email' 	=> 'Email',
-	'phone_number' => 'Phone Number',
-	'avatar'		=> 'Avatar',
-	'choose_avatar' => 'Choose Avatar:',
-	'address' => 'Address',
-	'city' => 'City',
-	'state' => 'State',
-	'zip' => 'Zip',
-	'comments' => 'Comments',
-	'account' => 'Account',
-	'submit' => 'Submit',
-	'edit' => 'Edit',
-	'delete' => 'Delete',
-	'update_supplier' => 'Update Supplier',
+	'list_suppliers'	=> 'قائمة الموردين',
+	'new_supplier'		=> 'مورد جديد',
+	'company_name' 		=> 'أسم الشركة',
+	'name' 	=> 'الأسم',
+	'email' 	=> 'البريد الإلكتروني',
+	'phone_number' => 'رقم الهاتف',
+	'avatar'		=> 'الصورة الرمزية',
+	'choose_avatar' => 'اختيار الصورة الرمزية:',
+	'address' => 'العنوان',
+	'city' => 'المدينة',
+	'state' => 'الولاية',
+	'zip' => 'الرمز البريدي',
+	'comments' => 'التعليقات',
+	'account' => 'الحساب',
+	'submit' => 'إدخال',
+	'edit' => 'تعديل',
+	'delete' => 'حذف',
+	'update_supplier' => 'تحديث مورد',
 
 ];

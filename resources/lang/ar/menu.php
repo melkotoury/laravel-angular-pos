@@ -1,19 +1,19 @@
-<?php
+﻿<?php
 
 return [
 
-	'dashboard' 			=> 'Dashboard',
-	'customers' 			=> 'Customers',
-	'employees'				=> 'Employees',
-	'items' 				=> 'Items',
-	'item_kits' 			=> 'Item Kits',
-	'suppliers' 			=> 'Suppliers',
-	'receivings' 			=> 'Receivings',
-	'sales' 				=> 'Sales',
-	'reports' 				=> 'Reports',
-	'receivings_report' 	=> 'Receivings Report',
-	'sales_report' 			=> 'Sales Report',
-	'logout'				=> 'Logout',
-	'application_settings' 	=> 'Application Settings'
+	'dashboard' 			=> ' اللوحة الرئيسية',
+	'customers' 			=> 'العملاء',
+	'employees'				=> 'الموظفين',
+	'items' 				=> 'الأصناف',
+	'item_kits' 			=> 'المنتجات',
+	'suppliers' 			=> 'الموردين',
+	'receivings' 			=> 'الواردات',
+	'sales' 				=> 'مكان البيع',
+	'reports' 				=> 'التقارير',
+	'receivings_report' 	=> 'تقارير الواردات',
+	'sales_report' 			=> 'تقارير المبيعات',
+	'logout'				=> 'خروج',
+	'application_settings' 	=> 'الإعدادات'
 
 ];

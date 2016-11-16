@@ -1,21 +1,21 @@
-<?php
+﻿<?php
 
 return [
 
-	'item_kits'	=> 'Item Kits',
-	'new_item_kit'		=> 'New Item Kit',
-	'item_kit_id' 		=> 'Item Kit ID',
-	'item_kit_name' 	=> 'Item Kit Name',
-	'cost_price' 	=> 'Cost Price',
-	'selling_price' => 'Selling Price',
-	'item_kit_description'		=> 'Item Kit Description',
-	'search_item' => 'Search Item:',
-	'description' => 'Description',
-	'quantity' => 'Quantity',
-	'profit' => 'PROFIT:',
-	'item_id' => 'Item ID',
-	'item_name' => 'Item Name',
-	'submit' => 'Submit Item Kit',
+	'item_kits'	=> 'المنتجات',
+	'new_item_kit'		=> 'منتج جديد',
+	'item_kit_id' 		=> 'رقم تعريف المنتج',
+	'item_kit_name' 	=> 'اسم المنتج',
+	'cost_price' 	=> 'سعر التكلفة',
+	'selling_price' => 'سعر البيع',
+	'item_kit_description'		=> 'وصف المنتج',
+	'search_item' => 'بحث البند:',
+	'description' => 'الوصف',
+	'quantity' => 'الكمية',
+	'profit' => 'الربح:',
+	'item_id' => 'رقم تعريف الصنف',
+	'item_name' => 'اسم الصنف',
+	'submit' => 'ادخال',
 
 
 ];
