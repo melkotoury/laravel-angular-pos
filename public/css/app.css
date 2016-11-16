@@ -4982,6 +4982,8 @@ a.list-group-item-danger.active:focus {
   border-radius: 4px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
+
+
 .panel-body {
   padding: 15px;
 }
@@ -5273,6 +5275,14 @@ a.list-group-item-danger.active:focus {
 .panel-info > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #bce8f1;
 }
+
+.panel-info > a {
+  color: #31708f;
+}
+
+.panel-info > a:hover {
+  color: #448db3;
+}
 .panel-warning {
   border-color: #faebcc;
 }
@@ -5291,9 +5301,17 @@ a.list-group-item-danger.active:focus {
 .panel-warning > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #faebcc;
 }
+.panel-warning > a {
+  color: #8a6d3b;
+}
+
+.panel-warning > a:hover {
+  color: #5a6d13;
+}
 .panel-danger {
   border-color: #ebccd1;
 }
+
 .panel-danger > .panel-heading {
   color: #a94442;
   background-color: #f2dede;
@@ -5308,6 +5326,73 @@ a.list-group-item-danger.active:focus {
 }
 .panel-danger > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #ebccd1;
+}
+.panel-danger > a{
+  color: #a94442;
+}
+
+.panel-danger > a:hover{
+  color: #d65a58;
+}
+
+/* Custom Colored Panels */
+
+.huge {
+  font-size: 40px;
+}
+
+.panel-green {
+  border-color: #5cb85c;
+}
+
+.panel-green > .panel-heading {
+  border-color: #5cb85c;
+  color: #fff;
+  background-color: #5cb85c;
+}
+
+.panel-green > a {
+  color: #5cb85c;
+}
+
+.panel-green > a:hover {
+  color: #3d8b3d;
+}
+
+.panel-red {
+  border-color: #d9534f;
+}
+
+.panel-red > .panel-heading {
+  border-color: #d9534f;
+  color: #fff;
+  background-color: #d9534f;
+}
+
+.panel-red > a {
+  color: #d9534f;
+}
+
+.panel-red > a:hover {
+  color: #b52b27;
+}
+
+.panel-yellow {
+  border-color: #f0ad4e;
+}
+
+.panel-yellow > .panel-heading {
+  border-color: #f0ad4e;
+  color: #fff;
+  background-color: #f0ad4e;
+}
+
+.panel-yellow > a {
+  color: #f0ad4e;
+}
+
+.panel-yellow > a:hover {
+  color: #df8a13;
 }
 .embed-responsive {
   position: relative;
