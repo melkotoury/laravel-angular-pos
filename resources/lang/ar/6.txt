@@ -1,0 +1,19 @@
+﻿<?php
+
+return [
+
+	'dashboard' 			=> 'اللوحة',
+	'customers' 			=> 'العملاء',
+	'employees'				=> 'الموظفين',
+	'items' 				=> 'البنود',
+	'item_kits' 			=> 'وحدات البند',
+	'suppliers' 			=> 'الموردين',
+	'receivings' 			=> 'الواردات',
+	'sales' 				=> 'المبيعات',
+	'reports' 				=> 'التقارير',
+	'receivings_report' 	=> 'تقارير الواردات',
+	'sales_report' 			=> 'تقارير المبيعات',
+	'logout'				=> 'خروج',
+	'application_settings' 	=> 'الإعدادات'
+
+];
