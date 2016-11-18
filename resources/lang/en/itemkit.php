@@ -2,13 +2,13 @@
 
 return [
 
-	'item_kits'	=> 'Products',
-	'new_item_kit'		=> 'New Product',
-	'item_kit_id' 		=> 'Product ID',
-	'item_kit_name' 	=> 'Product Name',
+	'item_kits'	=> 'Composite Items',
+	'new_item_kit'		=> 'New Composite Item',
+	'item_kit_id' 		=> 'Composite Item ID',
+	'item_kit_name' 	=> 'Composite Item Name',
 	'cost_price' 	=> 'Cost Price',
 	'selling_price' => 'Selling Price',
-	'item_kit_description'		=> 'Product Description',
+	'item_kit_description'		=> 'Composite Item Description',
 	'search_item' => 'Search Item:',
 	'description' => 'Description',
 	'quantity' => 'Quantity',
